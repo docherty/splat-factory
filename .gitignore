@@ -1,3 +1,6 @@
+# project-specific ignores
+models/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
